@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F48FAB4-8801-4C85-8121-33D1F193556C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DFC17A5-5A4F-4209-97D3-C30933514699"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/View/NewsCell/NewsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "setNews(newsObject:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22AE36C9-82FB-415B-B209-4E2B5B4AB9F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Model/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getNews(query:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BB9A6AC-7FE1-4F88-A2B9-9C9B43AE2543"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Controller/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0BB9A6AC-7FE1-4F88-A2B9-9C9B43AE2543 - b4e12b3bd5e3ae0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GNEWS.NewsViewController.api.getter : Swift.Optional&lt;GNEWS.ApiService&gt;"
+                  moduleName = "GNEWS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chethanbhandarkar/IOS/IOS%20TRAINING/WEEK1/Project1/GNEWS/GNEWS/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0BB9A6AC-7FE1-4F88-A2B9-9C9B43AE2543 - 6f1f129fc444d9f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GNEWS.NewsViewController.api.setter : Swift.Optional&lt;GNEWS.ApiService&gt;"
+                  moduleName = "GNEWS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chethanbhandarkar/IOS/IOS%20TRAINING/WEEK1/Project1/GNEWS/GNEWS/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "0BB9A6AC-7FE1-4F88-A2B9-9C9B43AE2543 - 75c36e4edf4b50d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GNEWS.NewsViewController.api.modify : Swift.Optional&lt;GNEWS.ApiService&gt;"
+                  moduleName = "GNEWS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chethanbhandarkar/IOS/IOS%20TRAINING/WEEK1/Project1/GNEWS/GNEWS/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "0BB9A6AC-7FE1-4F88-A2B9-9C9B43AE2543 - 1093aeb6cd603f56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GNEWS.NewsViewController.api.modify : Swift.Optional&lt;GNEWS.ApiService&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "GNEWS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chethanbhandarkar/IOS/IOS%20TRAINING/WEEK1/Project1/GNEWS/GNEWS/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0BB9A6AC-7FE1-4F88-A2B9-9C9B43AE2543 - 57986d8de2bd1f9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GNEWS.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GNEWS.NewsViewController"
+                  moduleName = "GNEWS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chethanbhandarkar/IOS/IOS%20TRAINING/WEEK1/Project1/GNEWS/GNEWS/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "522">
+               </Location>
+               <Location
+                  uuid = "0BB9A6AC-7FE1-4F88-A2B9-9C9B43AE2543 - 2b67d25b8a98c8d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GNEWS.NewsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GNEWS.NewsViewController&gt;"
+                  moduleName = "GNEWS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chethanbhandarkar/IOS/IOS%20TRAINING/WEEK1/Project1/GNEWS/GNEWS/Controller/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "463">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B52EF91E-C07D-45DB-8937-9E1E4A25540A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Controller/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BBB6C05-DB18-4D56-B9DE-C3A483CB63B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Controller/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "NewsViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFE1A060-021B-4F6D-8301-2B156A8ECEF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Controller/NewsDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00288C6D-19BE-4B34-8CC5-B0F8E98467B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Controller/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8136077-0C84-4AD8-B58C-2E93DCDF5F85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Controller/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "853547C6-448F-4D98-AF43-2A9AE8F7B11D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GNEWS/Model/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getNews(query:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
